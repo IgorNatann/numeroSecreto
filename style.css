@@ -57,3 +57,10 @@ h3 {
     border-radius: 5px;
     margin-top: 20px;
 }
+
+.btn-jogar:hover {
+    background: var(--bg-color);
+    color: var(--primary-color);
+    
+    transition: .7s;
+}
